@@ -1,0 +1,63 @@
+style.css
+
+body {
+  font-family: inherit;
+}
+
+#picture {
+
+  font-family: sans-serif; color: blue;
+}
+
+#big {
+   color: orange;
+}
+
+#bigger {
+  color: #3977E3;
+
+}
+
+#biggest {
+
+  color: #40D509;
+}
+
+#Body1 {
+  background-color: #8F99D9; font-size: 20px; font-weight: lighter; padding: 20px;
+}
+
+#family{
+  background-color: #1A36F1; width: 1200px;
+}
+
+#power{
+  background-color: #B9F9F8; padding: 20px;
+}
+
+#big>h1{
+  #E3DE46
+
+}
+
+#body1>h2 {
+  color: black;
+}
+
+.web{
+  color: green; font-weight: bold; font-style: italic;
+}
+
+.row > div {
+  background-color: #5C29A1;
+  text-align: center;
+  border-color: black;
+  border: 2px solid black;
+  margin: 10px
+
+}
+
+div > ul {
+  color: #181694;
+  font-style: italic;
+}
