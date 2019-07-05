@@ -1,2 +1,2 @@
-# cs50class
-Cs50 complete course and projects
+This project is the history of my love for computer programming, which includes how i got to no about programming and the different things i have done just to make sure i accomplish by aim. The Home page gives a brief introduction of my family background and my schooling while the computer page talks about how i met the friend that taught me my first programming. The Graduation page is about my after school experience and finally the Cs50 page Talks briefly on how i got to no about CS50 and how i dived into it.
+
