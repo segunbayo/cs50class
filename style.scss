@@ -1,0 +1,15 @@
+%message {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .big{
+    @extend %message
+    border: 2px; background-color: skyblue;
+  }
+
+  .bigger {
+    @extend %message
+    border: 3px; background-color: lemon;
+  }
